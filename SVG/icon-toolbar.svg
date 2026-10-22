@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="icon-toolbar" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 127.9">
   <defs>
-    <linearGradient id="linear-gradient" x1="-2384.62" y1="-38.71" x2="-2374.69" y2="-48.64" gradientTransform="translate(33379.2001 -547.5) scale(14 -14)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="linear-gradient" x1="-2384.59" y1="-38.71" x2="-2374.67" y2="-48.64" gradientTransform="translate(33379.2001 -547.5) scale(14 -14)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#006bea"/>
       <stop offset="1" stop-color="#d0009e"/>
     </linearGradient>
   </defs>
   <g id="icon-2" data-name="icon">
-    <rect id="Background" width="128" height="128" rx="2.1" ry="2.1" fill="url(#linear-gradient)"/>
-    <polygon id="M" points="18 119 18 9 36.2 9 63.5 54.83 90.8 9 109 9 109 119 91 119 91 45.86 63.5 91.57 36 45.86 36 119 18 119" fill="#fff"/>
+    <rect id="Background" x=".37" width="128" height="128" rx="2.1" ry="2.1" fill="url(#linear-gradient)"/>
+    <polygon id="M" points="18.37 119 18.37 9 36.57 9 63.87 54.83 91.17 9 109.37 9 109.37 119 91.37 119 91.37 45.86 63.87 91.57 36.37 45.86 36.37 119 18.37 119" fill="#fff"/>
   </g>
 </svg>

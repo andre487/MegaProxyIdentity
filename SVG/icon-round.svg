@@ -67,7 +67,7 @@
     <symbol id="MPX" viewBox="0 0 922.07 360.17">
       <g id="MPX-2" data-name="MPX">
         <g id="X">
-          <path id="Contour" d="M791.2,106.24l60.14-71.59s11.89-10.97,28.73-10.97c19.14,0,40.67,14.2,40.02,37.96,1.6,19.69-16.89,36.57-16.89,36.57l-62.35,73.02,75.36,99.5s6.01,8.48,5.86,21.14c-.5,42.42-49.08,48.91-69.98,28.98-11.79-11.24-65.52-84.95-65.52-84.95l-68.31,80.5s-11.59,15.95-34.87,15.68c-27.13-.31-45.85-22.75-38.78-51.33.92-3.22,4.11-8.49,8.78-15.04,1.99-2.74,82.75-96.16,82.75-96.16l-67.15-87.82s-4.69-8.78-4.83-20.48,8.3-25.65,18.85-32.32,24.77-5.49,28.24-5.26,17.49,4.72,23.95,11.18,55.98,71.38,55.98,71.38Z" fill="#fefefe"/>
+          <path id="Contour" d="M791.2,106.24l60.14-71.59s11.89-10.97,28.73-10.97c19.14,0,40.67,14.2,40.02,37.96,1.6,19.69-16.89,36.57-16.89,36.57l-62.35,73.02,75.36,99.5s6.01,8.48,5.86,21.14c-.5,42.42-49.08,48.91-69.98,28.98-11.79-11.24-65.52-84.95-65.52-84.95l-68.31,80.5s-11.59,15.95-34.87,15.68c-27.13-.31-45.85-22.75-38.78-51.33.92-3.22,4.11-8.49,8.78-15.04,1.99-2.74,82.75-96.16,82.75-96.16l-67.15-87.82s-4.69-8.78-4.83-20.48c-.14-11.7,8.3-25.65,18.85-32.32,10.55-6.67,24.77-5.49,28.24-5.26s17.49,4.72,23.95,11.18,55.98,71.38,55.98,71.38Z" fill="#fefefe"/>
           <polygon id="Center_Shadow" data-name="Center Shadow" points="736.16 169.56 791.25 108.13 839.98 171.48 786.58 235.9 736.16 169.56" fill="url(#radial-gradient)"/>
           <polygon id="Shadow_Bottom_Left" data-name="Shadow Bottom Left" points="736.16 169.56 786.58 235.9 724.27 309.33 667.62 249.02 736.16 169.56" fill="url(#linear-gradient)"/>
           <polygon id="Shadow_Top_RIght" data-name="Shadow Top RIght" points="791.25 108.13 839.98 171.48 908.99 91.81 846.74 40.13 791.25 108.13" fill="url(#linear-gradient-2)"/>
@@ -127,9 +127,9 @@
       </g>
     </symbol>
     <clipPath id="clippath">
-      <circle id="Mask" cx="627.48" cy="627" r="627" fill="none"/>
+      <circle id="Mask" cx="627.91" cy="627" r="627" fill="none"/>
     </clipPath>
-    <linearGradient id="linear-gradient-8" x1="192.12" y1="-57.11" x2="1082.34" y2="1341.76" gradientUnits="userSpaceOnUse">
+    <linearGradient id="linear-gradient-8" x1="192.55" y1="-57.11" x2="1082.77" y2="1341.76" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#006bea"/>
       <stop offset="1" stop-color="#d0009e"/>
     </linearGradient>
@@ -138,10 +138,10 @@
     <g clip-path="url(#clippath)">
       <g id="Icon">
         <g id="Background">
-          <rect id="Background-2" data-name="Background" x=".48" width="1254" height="1254" fill="url(#linear-gradient-8)"/>
-          <use width="1491.77" height="1496.93" transform="translate(-97.52 -97) scale(.97)" xlink:href="#Rings"/>
+          <rect id="Background-2" data-name="Background" x=".91" width="1254" height="1254" fill="url(#linear-gradient-8)"/>
+          <use width="1491.77" height="1496.93" transform="translate(-97.09 -97) scale(.97)" xlink:href="#Rings"/>
         </g>
-        <use width="922.07" height="360.17" transform="translate(180.48 457)" xlink:href="#MPX"/>
+        <use width="922.07" height="360.17" transform="translate(180.91 457)" xlink:href="#MPX"/>
       </g>
     </g>
   </g>
