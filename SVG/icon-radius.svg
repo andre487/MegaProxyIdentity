@@ -127,9 +127,9 @@
       </g>
     </symbol>
     <clipPath id="clippath">
-      <path id="Mask" d="M200.31,0h828.75c124.32,0,225.25,100.93,225.25,225.25v803.5c0,124.32-100.93,225.25-225.25,225.25H225.56c-124.32,0-225.25-100.93-225.25-225.25V200C.31,89.62,89.92,0,200.31,0Z" fill="none"/>
+      <path id="Mask" d="M200,0h828.75c124.32,0,225.25,100.93,225.25,225.25v803.5c0,124.32-100.93,225.25-225.25,225.25H225.25c-124.32,0-225.25-100.93-225.25-225.25V200C0,89.62,89.62,0,200,0Z" fill="none"/>
     </clipPath>
-    <linearGradient id="linear-gradient-8" x1="48.5" y1="38.93" x2="1424.53" y2="1436.99" gradientUnits="userSpaceOnUse">
+    <linearGradient id="linear-gradient-8" x1="48.19" y1="38.93" x2="1424.22" y2="1436.99" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#006bea"/>
       <stop offset="1" stop-color="#d0009e"/>
     </linearGradient>
@@ -138,10 +138,10 @@
     <g clip-path="url(#clippath)">
       <g id="icon">
         <g id="Background">
-          <rect id="Gradient" x=".31" width="1254" height="1254" fill="url(#linear-gradient-8)"/>
-          <use width="1491.77" height="1496.93" transform="translate(-146.69 -118) scale(1.04)" xlink:href="#Rings"/>
+          <rect id="Gradient" width="1254" height="1254" fill="url(#linear-gradient-8)"/>
+          <use width="1491.77" height="1496.93" transform="translate(-147 -118) scale(1.04)" xlink:href="#Rings"/>
         </g>
-        <use width="922.07" height="360.17" transform="translate(180.31 457)" xlink:href="#MPX"/>
+        <use width="922.07" height="360.17" transform="translate(180 457)" xlink:href="#MPX"/>
       </g>
     </g>
   </g>
