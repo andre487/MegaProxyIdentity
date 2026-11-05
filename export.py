@@ -51,6 +51,13 @@ def main():
     # Finish all exports before replacing any existing files.
     with tempfile.TemporaryDirectory(prefix='.export-', dir=output) as temporary:
         temporary = pathlib.Path(temporary)
+        # Plain SVG drops Inkscape labels; expose group names to downstream consumers.
+        for group in document.iter(f'{svg_namespace}g'):
+            label = group.get('{http://www.inkscape.org/namespaces/inkscape}label')
+            if label:
+                group.set('data-name', label)
+        source = temporary / 'identity.svg'
+        document.write(source, encoding='utf-8', xml_declaration=True)
         for number, name in enumerate(names, start=1):
             sp.run(
                 [
